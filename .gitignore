@@ -11,3 +11,4 @@ test/tmp
 /examples/libs/
 /coverage
 package-lock.json
+/dist/vuedraggable.*
