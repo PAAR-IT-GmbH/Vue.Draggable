@@ -1,4 +1,4 @@
-declare module 'vuedraggable' {
+declare module '@paar-it-gmbh/vuedraggable' {
   import Vue, { VueConstructor } from 'vue';
 
   type CombinedVueInstance<
