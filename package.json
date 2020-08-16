@@ -1,6 +1,6 @@
 {
   "name": "@paar-it-gmbh/vuedraggable",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "draggable component for vue",
   "license": "MIT",
   "main": "dist/vuedraggable.umd.min.js",
